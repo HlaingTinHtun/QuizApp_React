@@ -6,7 +6,7 @@ Simple quiz application with reactjs
 * Listing and Single Component
 * Quiz Logic
 
-#Outcomes
+# Outcomes
 * Working with and set states
 * Mapping through state objects
 * Using conditionals to output correct props
